@@ -1,0 +1,112 @@
+                            .umdiv {
+                                background-color: white;
+                                max-width: 800px;
+                                margin: 0px auto;
+                                justify-content: center;
+                            }
+                            
+                            .imgcc {
+                                width: 160px;
+                                padding: 3px;
+                                margin-right: 10px;
+                                margin-left: 10px;
+                                border: 4px solid #483D8B;
+                            }
+                            
+                            .umdiv p {
+                                margin: 0
+                            }
+                            
+                            .container {
+                                background-color: white;
+                                max-width: 800px;
+                                margin: 0px auto;
+                            }
+                            
+                            .curriculo {
+                                position: relative;
+                                overflow: auto;
+                                height: 300px;
+                            }
+                            
+                            .em {
+                                margin: 0
+                            }
+                            
+                            .bach {
+                                margin: 0;
+                            }
+                            
+                            .nav-pills .nav-link.active,
+                            .nav-pills .show>.nav-link {
+                                background-color: #9370DB;
+                            }
+                            
+                            .umdiv2 {
+                                background-color: white;
+                                max-width: 800px;
+                                margin: 0px auto;
+                                justify-content: center;
+                            }
+                            
+                            .col-3 {
+                                background-image: linear-gradient(0deg, #E6E6FA, #483D8B);
+                            }
+                            
+                            .col-9 {
+                                display: flex;
+                            }
+                            
+                            .imglocal {
+                                width: 35px;
+                            }
+                            
+                            .imgsearch {
+                                width: 20px;
+                            }
+                            
+                            .imgemblem {
+                                width: 20px;
+                            }
+                            
+                            .nav-link {
+                                color: white;
+                            }
+                            
+                            .umdiv p {
+                                text-align: center;
+                            }
+                            
+                            @font-face {
+                                font-family: "minhafonte";
+                                src: url(../fonts/BebasNeue-Regular.ttf);
+                            }
+                            
+                            .titulo {
+                                font-family: "minhafonte";
+                                font-size: 30px;
+                                color: #483D8B;
+                            }
+                            
+                            #div-diagonal {
+                                width: 250px;
+                                height: 250px;
+                                background: rgb(229, 189, 255);
+                                -webkit-transform: skew(0deg);
+                            }
+                            
+                            body {
+                                background-image: linear-gradient(0deg, #E6E6FA, #483D8B);
+                            }
+                            
+                            .senac {
+                                width: 60px;
+                                margin: 0px auto;
+                                display: block;
+                            }
+                            
+                            .slide2 {
+                                width: 300px;
+                                justify-content: center;
+                                margin: 0 auto;
+                            }
